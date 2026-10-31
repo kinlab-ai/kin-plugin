@@ -10,7 +10,7 @@
   "homepage": "https://kinlab.ai",
   "repository": "https://github.com/kinlab-ai/kin-plugin",
   "license": "MIT",
-  "keywords": ["mcp", "accounts", "permissions", "approvals", "github", "notion", "linear", "slack"],
+  "keywords": ["mcp", "accounts", "permissions", "approvals", "github", "notion", "linear"],
   "skills": "./skills/",
   "mcpServers": "./mcp.json",
   "interface": {

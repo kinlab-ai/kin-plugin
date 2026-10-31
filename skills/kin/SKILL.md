@@ -1,6 +1,6 @@
 ---
 name: kin
-description: How to use Kin's MCP tools (search, describe, read, execute, feedback) and read their answers. Use when the person asks to read or change something in a service they connected in Kin, such as GitHub, Notion, Linear or Slack.
+description: How to use Kin's MCP tools (search, describe, read, execute, feedback) and read their answers. Use when the person asks to read or change something in a service they connected in Kin, such as GitHub, Notion or Linear.
 ---
 
 # Using Kin
