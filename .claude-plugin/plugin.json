@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kin",
+  "displayName": "Kin",
+  "version": "0.9.0",
+  "description": "Use your accounts from Claude through Kin, even two of one service, each with its own rule per action: Allow, Ask me or Block.",
+  "author": {
+    "name": "Kin Computing, Inc.",
+    "email": "support@kinlab.ai",
+    "url": "https://kinlab.ai"
+  },
+  "homepage": "https://kinlab.ai",
+  "repository": "https://github.com/kinlab-ai/kin-plugin",
+  "license": "MIT",
+  "keywords": ["mcp", "accounts", "permissions", "approvals", "github", "notion", "linear", "slack"],
+  "icon": "./assets/icon.png",
+  "documentationUrl": "https://kinlab.ai/docs/ai-apps/claude-code",
+  "supportUrl": "https://kinlab.ai/docs/help",
+  "privacyPolicyUrl": "https://kinlab.ai/privacy",
+  "termsOfServiceUrl": "https://app.kinlab.ai/terms"
+}

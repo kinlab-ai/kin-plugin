@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "kin-approvals",
+  "displayName": "Kin approvals",
+  "version": "0.9.0",
+  "description": "Sends Claude Code's permission prompts to Kin, so you can answer them on your phone or in Kin. Needs the Kin app or kin-bridge on this computer.",
+  "author": {
+    "name": "Kin Computing, Inc.",
+    "email": "support@kinlab.ai",
+    "url": "https://kinlab.ai"
+  },
+  "homepage": "https://kinlab.ai",
+  "repository": "https://github.com/kinlab-ai/kin-plugin",
+  "license": "MIT",
+  "keywords": ["permissions", "approvals", "hooks"],
+  "icon": "./icon.png",
+  "documentationUrl": "https://kinlab.ai/docs/kin-apps",
+  "supportUrl": "https://kinlab.ai/docs/help",
+  "privacyPolicyUrl": "https://kinlab.ai/privacy",
+  "termsOfServiceUrl": "https://app.kinlab.ai/terms"
+}

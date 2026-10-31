@@ -1,0 +1,18 @@
+{
+  "description": "Sends Claude Code's permission prompts to Kin through the Kin app or kin-bridge on this computer.",
+  "hooks": {
+    "PermissionRequest": [
+      {
+        "matcher": "*",
+        "hooks": [
+          {
+            "type": "command",
+            "command": "sh",
+            "args": ["${CLAUDE_PLUGIN_ROOT}/scripts/kin-permission.sh"],
+            "timeout": 3600
+          }
+        ]
+      }
+    ]
+  }
+}

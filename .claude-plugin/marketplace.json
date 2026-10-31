@@ -1,0 +1,22 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "kin",
+  "owner": {
+    "name": "Kin Computing, Inc.",
+    "email": "support@kinlab.ai",
+    "url": "https://kinlab.ai"
+  },
+  "description": "Kin's plugins for Claude Code.",
+  "plugins": [
+    {
+      "name": "kin",
+      "source": "./",
+      "description": "Kin's MCP server address and skills: use your accounts, even two of one service, each with its own rules."
+    },
+    {
+      "name": "kin-approvals",
+      "source": "./approvals",
+      "description": "Sends Claude Code's permission prompts to Kin, so you can answer them on your phone. Needs the Kin app or kin-bridge on this computer."
+    }
+  ]
+}
