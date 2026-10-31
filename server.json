@@ -2,8 +2,8 @@
   "$schema": "https://static.modelcontextprotocol.io/schemas/2025-12-11/server.schema.json",
   "name": "ai.kinlab/kin",
   "title": "Kin",
-  "description": "Use your accounts from any AI app, even two of one service, each with its own rules.",
-  "version": "0.9.0",
+  "description": "Connect accounts once. Set what agents may do per account. Enforced when the action runs.",
+  "version": "0.9.1",
   "websiteUrl": "https://kinlab.ai/",
   "repository": {
     "url": "https://github.com/kinlab-ai/kin-plugin",
