@@ -28,7 +28,11 @@ Gemini CLI:
 gemini extensions install https://github.com/kinlab-ai/kin-plugin
 ```
 
-Claude, ChatGPT, Cursor and other AI apps: add `https://app.kinlab.ai/mcp` as a remote MCP server and sign in. The [setup guide for each app](https://kinlab.ai/docs/ai-apps) has the steps.
+Cursor, VS Code, LM Studio and Kiro: open the link for your app, then sign in.
+
+[Add to Cursor](https://cursor.com/en/install-mcp?name=kin&config=eyJ1cmwiOiJodHRwczovL2FwcC5raW5sYWIuYWkvbWNwIn0%3D) · [Add to VS Code](https://insiders.vscode.dev/redirect/mcp/install?name=kin&config=%7B%22type%22%3A%22http%22%2C%22url%22%3A%22https%3A%2F%2Fapp.kinlab.ai%2Fmcp%22%7D) · [Add to LM Studio](https://lmstudio.ai/install-mcp?name=kin&config=eyJ1cmwiOiJodHRwczovL2FwcC5raW5sYWIuYWkvbWNwIn0%3D) · [Add to Kiro](https://kiro.dev/launch/mcp/add?name=kin&config=%7B%22url%22%3A%22https%3A%2F%2Fapp.kinlab.ai%2Fmcp%22%7D)
+
+Claude, ChatGPT, Zed, Raycast, Warp and other AI apps: add `https://app.kinlab.ai/mcp` as a remote MCP server and sign in. The [setup guide for each app](https://kinlab.ai/docs/ai-apps) has the steps.
 
 ## What's in it
 
