@@ -1,0 +1,7 @@
+{
+  "mcpServers": {
+    "kin": {
+      "serverUrl": "https://app.kinlab.ai/mcp"
+    }
+  }
+}
